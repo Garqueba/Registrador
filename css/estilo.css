@@ -1,0 +1,18 @@
+header{
+        font-family: 'helvetica', monospace;
+	background: #212121;
+	color: #fff;
+	
+}
+
+.highcharts-title {
+	font-family: 'arial', monospace;
+    font-weight: bold;
+ 	letter-spacing: 0.3em;
+    font-size: 3em;
+}
+.highcharts-subtitle {
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+    fill: #7cb5ec;
+}
